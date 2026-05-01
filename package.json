@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/handwritten-history-kit.git"
+    "url": "https://github.com/sdevkota/handwritten-history-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/handwritten-history-kit/issues"
+    "url": "https://github.com/sdevkota/handwritten-history-kit/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/handwritten-history-kit/"
+  "homepage": "https://sdevkota.github.io/handwritten-history-kit/"
 }
