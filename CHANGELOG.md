@@ -1,7 +1,12 @@
 # Changelog
 
+## 2.0.0 - 2026-05-01
+
+- Converted Handwritten History Kit to a Python-first package and CLI.
+- Added `pyproject.toml`, `src/` package layout, and Python unittest smoke coverage.
+- Kept the analyzer offline and dependency-free.
+
 ## 1.0.0 - 2026-05-01
 
-- Initial release of Handwritten History Kit.
-- Added offline CLI and library analyzer.
+- Initial JavaScript release with offline CLI and library analyzer.
 - Added docs, tests, MIT license, and GitHub Pages-ready site.
